@@ -17,7 +17,6 @@ jobs:
       - name: check-inactive
         uses: actions-cool/issues-helper@v3
         with:
-          issue-number: ${{ github.event.issue.number }}
           actions: 'check-inactive'
           token: ${{ secrets.GH_TOKEN }}
           inactive-label: 'Inactive'
@@ -32,7 +31,6 @@ jobs:
       - name: need reproduce
         uses: actions-cool/issues-helper@v3
         with:
-          issue-number: ${{ github.event.issue.number }}
           actions: 'close-issues'
           token: ${{ secrets.GH_TOKEN }}
           labels: '✅ Fixed'
