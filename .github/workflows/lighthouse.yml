@@ -45,7 +45,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: ${{ env.REPOSITORY }}
-          token: ${{ secrets[matrix.TOKEN_NAME] || secrets[env.TOKEN_NAME] }}
           ref: ${{ env.BRANCH }}
       - uses: actions/checkout@v4
         with:
