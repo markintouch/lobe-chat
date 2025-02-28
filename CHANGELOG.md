@@ -2,6 +2,106 @@
 
 # Changelog
 
+### [Version 1.66.3](https://github.com/lobehub/lobe-chat/compare/v1.66.2...v1.66.3)
+
+<sup>Released on **2025-02-27**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix fetch assistants plugin error.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix fetch assistants plugin error, closes [#6576](https://github.com/lobehub/lobe-chat/issues/6576) ([9669a02](https://github.com/lobehub/lobe-chat/commit/9669a02))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.66.2](https://github.com/lobehub/lobe-chat/compare/v1.66.1...v1.66.2)
+
+<sup>Released on **2025-02-27**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Update Claude sonnet 3.7 model ID.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Update Claude sonnet 3.7 model ID, closes [#6567](https://github.com/lobehub/lobe-chat/issues/6567) ([d1039d6](https://github.com/lobehub/lobe-chat/commit/d1039d6))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.66.1](https://github.com/lobehub/lobe-chat/compare/v1.66.0...v1.66.1)
+
+<sup>Released on **2025-02-27**</sup>
+
+#### 💄 Styles
+
+- **misc**: Added eu-central-1 region for bedrock.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Added eu-central-1 region for bedrock, closes [#6555](https://github.com/lobehub/lobe-chat/issues/6555) ([6f1e599](https://github.com/lobehub/lobe-chat/commit/6f1e599))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.66.0](https://github.com/lobehub/lobe-chat/compare/v1.65.2...v1.66.0)
+
+<sup>Released on **2025-02-27**</sup>
+
+#### ✨ Features
+
+- **misc**: Add online search support for available providers.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Add online search support for available providers, closes [#6475](https://github.com/lobehub/lobe-chat/issues/6475) ([cb0a3bc](https://github.com/lobehub/lobe-chat/commit/cb0a3bc))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.65.2](https://github.com/lobehub/lobe-chat/compare/v1.65.1...v1.65.2)
 
 <sup>Released on **2025-02-27**</sup>
